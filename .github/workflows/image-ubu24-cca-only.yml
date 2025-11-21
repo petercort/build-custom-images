@@ -3,7 +3,7 @@ name: Image Ubuntu 24 Copilot Coding Agent
 on:
   push:
     paths:
-      - '.github/workflows/image-cca-ubu24-64.yml'
+      - '.github/workflows/image-ubu24-cca-only.yml'
   workflow_dispatch:
   workflow_call:
 
